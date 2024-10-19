@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Tamim's Homepage"
 title_separator          : "-"
-name                     : &name "MD Tamim Hossain"
-description              : &description "personal description"
-url                      : https://hossaintamim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "MD Tamim Hossain"
+description              : "personal description"
+URL                      : https://hossaintamim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hossaintamim/hossaintamim.github.io"
 
