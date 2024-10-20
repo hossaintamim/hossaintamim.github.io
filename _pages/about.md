@@ -32,6 +32,48 @@ Fun Fact
 ---
 When I’m not teaching or researching, I enjoy traveling and have had the pleasure of exploring India and Nepal. I’m also passionate about giving back to the community, having volunteered with projects that support underprivileged children and contribute to national crises like flood relief.
 
+## Memorylane
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <figure style="margin: 0; position: relative;">
+    <img src="/images/bungee.jpg" alt="Description of Image 1" style="width: 100%; height: auto; cursor: pointer;" onclick="openFullscreen(this)" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Bungee Jumping at The Cliff, Kushma, Nepal</figcaption>
+  </figure>
+  <figure style="margin: 0; position: relative;">
+    <img src="/images/thorangla.jpg" alt="Description of Image 2" style="width: 100%; height: auto; cursor: pointer;" onclick="openFullscreen(this)" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Crossing the Thorang La Pass in Annapurna Circuit Trek</figcaption>
+  </figure>
+  <figure style="margin: 0; position: relative;">
+    <img src="/images/snow.jpg" alt="Description of Image 3" style="width: 100%; height: auto; cursor: pointer;" onclick="openFullscreen(this)" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Somewhere at Annapurna, Nepal</figcaption>
+  </figure>
+  <figure style="margin: 0; position: relative;">
+    <img src="/images/goechala.jpg" alt="Description of Image 4" style="width: 100%; height: auto; cursor: pointer;" onclick="openFullscreen(this)" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Successfully reached at the peak of Goechala Trek, Sikkim, India</figcaption>
+  </figure>
+</div>
+
+<!-- Fullscreen Modal -->
+<div id="fullscreenModal" style="display: none; position: fixed; top: 50px; left: 0; width: 100%; height: calc(100% - 50px); background-color: rgba(0, 0, 0, 0.9); z-index: 1000;">
+  <span style="position: absolute; top: 20px; right: 30px; color: white; font-size: 40px; font-weight: bold; cursor: pointer;" onclick="closeFullscreen()">&times;</span>
+  <img id="fullscreenImage" style="display: block; margin: 50px auto; max-width: 90%; max-height: 80%;">
+</div>
+
+<script>
+function openFullscreen(imgElement) {
+  var modal = document.getElementById("fullscreenModal");
+  var fullscreenImage = document.getElementById("fullscreenImage");
+  fullscreenImage.src = imgElement.src;
+  modal.style.display = "block";
+}
+
+function closeFullscreen() {
+  var modal = document.getElementById("fullscreenModal");
+  modal.style.display = "none";
+}
+</script>
+
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
