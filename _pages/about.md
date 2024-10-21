@@ -121,28 +121,30 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
     var modal = document.getElementById("fullscreenModal");
     modal.style.display = "none";
     }
-        // Static array of quotes
-        const quotes = [
-            { text: "The best way to predict the future is to create it.", author: "Peter Drucker" },
-            { text: "Success is not final, failure is not fatal: It is the courage to continue that counts.", author: "Winston Churchill" },
-            { text: "What you do speaks so loudly that I cannot hear what you say.", author: "Ralph Waldo Emerson" },
-            { text: "Life is 10% what happens to us and 90% how we react to it.", author: "Charles R. Swindoll" },
-            { text: "Your time is limited, don't waste it living someone else's life.", author: "Steve Jobs" },
-            { text: "Do not go where the path may lead, go instead where there is no path and leave a trail.", author: "Ralph Waldo Emerson" },
-            { text: "In the middle of difficulty lies opportunity.", author: "Albert Einstein" },
-            { text: "Success usually comes to those who are too busy to be looking for it.", author: "Henry David Thoreau" },
-            { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
-            { text: "Hardships often prepare ordinary people for an extraordinary destiny.", author: "C.S. Lewis" }
-        ];
+       window.onload = function() {
+            // Static array of quotes
+            const quotes = [
+                { text: "The best way to predict the future is to create it.", author: "Peter Drucker" },
+                { text: "Success is not final, failure is not fatal: It is the courage to continue that counts.", author: "Winston Churchill" },
+                { text: "What you do speaks so loudly that I cannot hear what you say.", author: "Ralph Waldo Emerson" },
+                { text: "Life is 10% what happens to us and 90% how we react to it.", author: "Charles R. Swindoll" },
+                { text: "Your time is limited, don't waste it living someone else's life.", author: "Steve Jobs" },
+                { text: "Do not go where the path may lead, go instead where there is no path and leave a trail.", author: "Ralph Waldo Emerson" },
+                { text: "In the middle of difficulty lies opportunity.", author: "Albert Einstein" },
+                { text: "Success usually comes to those who are too busy to be looking for it.", author: "Henry David Thoreau" },
+                { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
+                { text: "Hardships often prepare ordinary people for an extraordinary destiny.", author: "C.S. Lewis" }
+            ];
 
-        // Function to get a random quote
-        function getRandomQuote() {
-            const randomIndex = Math.floor(Math.random() * quotes.length);
-            return quotes[randomIndex];
-        }
+            // Function to get a random quote
+            function getRandomQuote() {
+                const randomIndex = Math.floor(Math.random() * quotes.length);
+                return quotes[randomIndex];
+            }
 
-        // Display a random quote
-        const quoteOfTheDay = getRandomQuote();
-        document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
-        document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
+            // Display a random quote
+            const quoteOfTheDay = getRandomQuote();
+            document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
+            document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
+        };
 </script>
