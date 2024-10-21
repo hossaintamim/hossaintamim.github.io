@@ -122,7 +122,7 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
     modal.style.display = "none";
     }
         // Static array of quotes
-        const quotes = [
+    const quotes = [
             { text: "The best way to predict the future is to create it.", author: "Peter Drucker" },
             { text: "Success is not final, failure is not fatal: It is the courage to continue that counts.", author: "Winston Churchill" },
             { text: "What you do speaks so loudly that I cannot hear what you say.", author: "Ralph Waldo Emerson" },
@@ -136,14 +136,14 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
         ];
 
         // Function to get today's quote based on day of the year
-        function getQuoteOfTheDay() {
-            const today = new Date();
-            const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
-            return quotes[dayOfYear % quotes.length];
+    function getQuoteOfTheDay() {
+        const today = new Date();
+        const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
+        return quotes[dayOfYear % quotes.length];
         }
 
         // Display the quote of the day
-        const quoteOfTheDay = getQuoteOfTheDay();
-        document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
-        document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
+    const quoteOfTheDay = getQuoteOfTheDay();
+    document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
+    document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
 </script>
