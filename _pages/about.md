@@ -6,19 +6,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
+  <p>
+  I am a Lecturer of Computer Science at <a href="https://puc.ac.bd/">Premier Unviersity</a>. I obtained my B.S. degree in Computer Science & Engineering from <a href="https://www.kuet.ac.bd/">Khulna University of Engineering and Technology</a>, Bangladesh, with my undergraduate thesis focusing on developing a image processing pipeline aimed at enhancing low-light photography through burst photography techniques, supervised by <a href="https://www.kuet.ac.bd/cse/smmasudul">Dr. Sk. Md. Masudul Ahsan</a>. Throughout my academic journey, I completed key coursework in areas such as Data Structures & Algorithms, Natural Language Processing, Machine Learning, Artiicial Intilligence, Image Processing and Computer Vision, Computer Graphics and Data Mining, which solidified my foundation in these fields.
+  </p>
 
-I am a Lecturer of Computer Science at [Premier Unviersity](https://puc.ac.bd/). I obtained my B.S. degree in Computer Science & Engineering from [Khulna University of Engineering and Technology](https://www.kuet.ac.bd/), Bangladesh. Prior to my role at Premier University, I taught at the [International Islamic University Chittagong](https://www.iiuc.ac.bd/), where I provided students with comprehensive course materials and helped them navigate their academic and career paths.
+  <p style="color: #8cd2d5; "><i>Currently, I am looking for PhD opportunities where I can expand my research and collaborate with experts to make meaningful contributions to the academic and research community.</i></p>
 
-*Currently, I am looking for PhD opportunities where I can expand my research and collaborate with experts to make meaningful contributions to the academic and research community.*
+</div>
+
+
+
 
 Education
-======
+---
 **Bachelor of Science in Computer Science and Engineering** \
 *Khulna University of Engineering & Technology*\
 Award: Dean’s list in 3rd and 4th year
 
 
-**Higher Secondary School Certificate**\
+<!-- **Higher Secondary School Certificate**\
 *Chittagong College*\
 *Chittagong*\
 GPA: 5.00(Out of 5.00)
@@ -26,7 +33,33 @@ GPA: 5.00(Out of 5.00)
 **Secondary School Certificate**\
 *Chittagong Collegiate School*\
 *Chittagong*\
-GPA: 5.00(Out of 5.00)
+GPA: 5.00(Out of 5.00) -->
+
+Working Experience
+---
+<div style="position: relative; max-width: 1200px; margin: 0 auto; padding: 20px;">
+
+        <!-- Timeline container -->
+        <div style="position: relative; margin: 20px 0;">
+
+            <!-- First Item -->
+            <div style="padding: 20px; position: relative; background-color: #252a34; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
+                <h3 style="font-size: 24px; margin: 0; color: #2980b9;">Lecturer</h3>
+                <p style="margin: 5px 0 10px 0; color: #95a5a6;">Premier University - Chittagong</p>
+                <span style="font-size: 14px; color: #95a5a6;">October 2023 - Present</span>
+                <p style="margin: 10px 0; color: #7f8c8d;">Teaching undergraduate courses in Image Processing, Neural Networks, and Internet Programming.</p>
+            </div>
+
+            <!-- Second Item -->
+            <div style="padding: 20px; position: relative; background-color: #252a34; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
+                <h3 style="font-size: 24px; margin: 0; color: #2980b9;">Adjunct Faculty</h3>
+                <p style="margin: 5px 0 10px 0; color: #95a5a6;">International Islamic University Chittagong - Chittagong</p>
+                <span style="font-size: 14px; color: #95a5a6;">June 2023 - October 2023</span>
+                <p style="margin: 10px 0; color: #7f8c8d;">Taught various courses such as Competitive Programming, Database Management System, and Computer Graphics.</p>
+            </div>
+        </div>
+
+</div>
 
 Fun Fact
 ---
@@ -50,6 +83,10 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
   <figure style="margin: 0; position: relative;">
     <img src="/images/goechala.jpg" alt="Description of Image 4" style="width: 100%; height: auto; cursor: pointer;" onclick="openFullscreen(this)" />
     <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Successfully reached at the peak of Goechala Trek, Sikkim, India</figcaption>
+  </figure>
+  <figure style="margin: 0; position: relative;">
+    <img src="/images/volunteer.jpg" alt="Description of Image 4" style="width: 100%; height: auto; cursor: pointer;" onclick="openFullscreen(this)" />
+    <figcaption style="text-align: center; font-size: 0.9em; color: #666;">Project Hashimukh(Smiley Face)</figcaption>
   </figure>
 </div>
 
