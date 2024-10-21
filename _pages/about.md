@@ -121,7 +121,7 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
     var modal = document.getElementById("fullscreenModal");
     modal.style.display = "none";
     }
-        // Array of quotes
+        // Static array of quotes
         const quotes = [
             { text: "The best way to predict the future is to create it.", author: "Peter Drucker" },
             { text: "Success is not final, failure is not fatal: It is the courage to continue that counts.", author: "Winston Churchill" },
