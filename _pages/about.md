@@ -105,8 +105,8 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
 
 <div style="text-align: center; padding: 10px 20px ; border-radius: 8px; background-color: #252a34; box-shadow: 0 2px 10px rgba(0,0,0,0.3); margin: 40px auto; max-width: 600px;">
         <h2 style="font-size: 28px; color: #2980b9;">Quote of the Day</h2>
-        <p id="quote" style="font-size: 20px; color: #7f8c8d; font-style: italic; margin: 20px 0;"></p>
-        <p id="author" style="font-size: 18px; color: #2980b9; margin: 0;"></p>
+        <p id="quote" style="font-size: 20px; color: #7f8c8d; font-style: italic; margin: 20px 0;">"Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
+        <p id="author" style="font-size: 18px; color: #2980b9; margin: 0;">Ralph Waldo Emerson</p>
 </div>
 
 <script>
@@ -136,15 +136,17 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
                 { text: "Hardships often prepare ordinary people for an extraordinary destiny.", author: "C.S. Lewis" }
             ];
 
-            // Function to get a random quote
-            function getRandomQuote() {
-                const randomIndex = Math.floor(Math.random() * quotes.length);
-                return quotes[randomIndex];
-            }
+            
+            // Function to get today's quote based on day of the year
+        function getQuoteOfTheDay() {
+            const today = new Date();
+            const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
+            return quotes[dayOfYear % quotes.length];
+        }
 
-            // Display a random quote
-            const quoteOfTheDay = getRandomQuote();
-            document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
-            document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
+        // Display the quote of the day
+        const quoteOfTheDay = getQuoteOfTheDay();
+        document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
+        document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
         };
 </script>
