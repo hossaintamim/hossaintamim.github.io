@@ -68,11 +68,17 @@ Working Experience
 
 </div>
 
-Fun Fact
+Hobbies and Interest
 ---
-When I’m not teaching or researching, I enjoy traveling and have had the pleasure of exploring India and Nepal. I’m also passionate about giving back to the community, having volunteered with projects that support underprivileged children and contribute to national crises like flood relief.
+When I’m not teaching or researching, I love staying active and exploring new passions. I’m a big football fan, playing twice a week to stay fit, and I follow both the English Premier League and Spanish La Liga, with Real Madrid being my favorite team.
+I also love hiking and trekking, always looking for new adventures in nature. My ultimate dream is to conquer every top mountain in the world and I’m constantly planning my next climb.
 
-## Memorylane
+Photography is another passion of mine, capturing the beauty of the natural world and unforgettable moments from my travels. Speaking of which, I’ve been fortunate enough to explore India and Nepal, experiences that have enriched my perspective on life.
+
+Beyond personal pursuits, giving back to the community is deeply important to me. I’ve volunteered with projects that support underprivileged children and contribute to national crises like flood relief. These experiences have shaped me into someone who values compassion and making a positive impact on the world.
+
+Memorylane
+---
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
   <figure style="margin: 0; position: relative;">
