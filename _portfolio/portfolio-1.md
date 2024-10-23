@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Nobanno"
+excerpt: "An android application for rice leaf disease recognition using machine learning was developed to detect 3 of the most common rice leaf diseases, with InceptionV3 model achieving the highest accuracy on the dataset used in the project.<br/><img src='/images/nobanno.PNG'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
