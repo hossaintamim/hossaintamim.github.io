@@ -73,7 +73,7 @@ Hobbies and Interest
 When I’m not teaching or researching, I love staying active and exploring new passions. I’m a big football fan, playing twice a week to stay fit, and I follow both the English Premier League and Spanish La Liga, with Real Madrid being my favorite team.
 I also love hiking and trekking, always looking for new adventures in nature. My ultimate dream is to conquer every top mountain in the world and I’m constantly planning my next climb.
 
-Photography is another passion of mine, capturing the beauty of the natural world and unforgettable moments from my travels. Speaking of which, I’ve been fortunate enough to explore India and Nepal, experiences that have enriched my perspective on life.
+Photography is another passion of mine, capturing the beauty of the natural world and unforgettable moments from my travels. Speaking of which, I’ve been fortunate enough to explore different countries, experiences their local culture and make new friends that have enriched my perspective on life.
 
 Beyond personal pursuits, giving back to the community is deeply important to me. I’ve volunteered with projects that support underprivileged children and contribute to national crises like flood relief. These experiences have shaped me into someone who values compassion and making a positive impact on the world.
 
