@@ -110,43 +110,15 @@ When I’m not teaching or researching, I enjoy traveling and have had the pleas
 </div>
 
 <script>
-    function openFullscreen(imgElement) {
-    var modal = document.getElementById("fullscreenModal");
-    var fullscreenImage = document.getElementById("fullscreenImage");
-    fullscreenImage.src = imgElement.src;
-    modal.style.display = "block";
-    }
+function openFullscreen(imgElement) {
+  var modal = document.getElementById("fullscreenModal");
+  var fullscreenImage = document.getElementById("fullscreenImage");
+  fullscreenImage.src = imgElement.src;
+  modal.style.display = "block";
+}
 
-    function closeFullscreen() {
-    var modal = document.getElementById("fullscreenModal");
-    modal.style.display = "none";
-    }
-       window.onload = function() {
-            // Static array of quotes
-            const quotes = [
-                { text: "The best way to predict the future is to create it.", author: "Peter Drucker" },
-                { text: "Success is not final, failure is not fatal: It is the courage to continue that counts.", author: "Winston Churchill" },
-                { text: "What you do speaks so loudly that I cannot hear what you say.", author: "Ralph Waldo Emerson" },
-                { text: "Life is 10% what happens to us and 90% how we react to it.", author: "Charles R. Swindoll" },
-                { text: "Your time is limited, don't waste it living someone else's life.", author: "Steve Jobs" },
-                { text: "Do not go where the path may lead, go instead where there is no path and leave a trail.", author: "Ralph Waldo Emerson" },
-                { text: "In the middle of difficulty lies opportunity.", author: "Albert Einstein" },
-                { text: "Success usually comes to those who are too busy to be looking for it.", author: "Henry David Thoreau" },
-                { text: "The only way to do great work is to love what you do.", author: "Steve Jobs" },
-                { text: "Hardships often prepare ordinary people for an extraordinary destiny.", author: "C.S. Lewis" }
-            ];
-
-            
-            // Function to get today's quote based on day of the year
-        function getQuoteOfTheDay() {
-            const today = new Date();
-            const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 1000 / 60 / 60 / 24);
-            return quotes[dayOfYear % quotes.length];
-        }
-
-        // Display the quote of the day
-        const quoteOfTheDay = getQuoteOfTheDay();
-        document.getElementById("quote").innerText = `"${quoteOfTheDay.text}"`;
-        document.getElementById("author").innerText = `- ${quoteOfTheDay.author}`;
-        };
+function closeFullscreen() {
+  var modal = document.getElementById("fullscreenModal");
+  modal.style.display = "none";
+}
 </script>
