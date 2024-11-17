@@ -1,6 +1,6 @@
 ---
-title: "Nobanno"
-excerpt: "An android application for rice leaf disease recognition using machine learning was developed to detect 3 of the most common rice leaf diseases, with InceptionV3 model achieving the highest accuracy on the dataset used in the project.<br/><img src='/images/nobanno.PNG'>"
+title: "Aligning Raw Images to Improve Low-Light Photos"
+excerpt: "Developed an image processing pipeline utilizing burst photography to enhance the signal-to-noise ratio (SNR) in extremely low-light conditions, with a custom dataset created for evaluation by manipulating handheld RAW image data and aligning and merging burst images to produce high-quality, low-noise results.<br/><img src='/images/thesis.PNG'>"
 collection: portfolio
 ---
 

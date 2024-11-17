@@ -70,12 +70,9 @@ Working Experience
 
 Hobbies and Interest
 ---
-When I’m not teaching or researching, I love staying active and exploring new passions. I’m a big football fan, playing twice a week to stay fit, and I follow both the English Premier League and Spanish La Liga, with Real Madrid being my favorite team.
-I also love hiking and trekking, always looking for new adventures in nature. My ultimate dream is to conquer every top mountain in the world and I’m constantly planning my next climb.
+Outside of teaching and research, I stay active and pursue my passions. I’m an avid football fan, playing twice a week and following the English Premier League and La Liga, with Real Madrid as my favorite team. I love hiking, trekking, and capturing nature’s beauty through photography, with a dream to conquer the world’s top mountains. [Click here to see photos](https://www.flickr.com/photos/tamuuu/)
 
-Photography is another passion of mine, capturing the beauty of the natural world and unforgettable moments from my travels. Speaking of which, I’ve been fortunate enough to explore different countries, experiences their local culture and make new friends that have enriched my perspective on life.
-
-Beyond personal pursuits, giving back to the community is deeply important to me. I’ve volunteered with projects that support underprivileged children and contribute to national crises like flood relief. These experiences have shaped me into someone who values compassion and making a positive impact on the world.
+Traveling has broadened my perspective, allowing me to experience diverse cultures and forge meaningful connections. Giving back is equally important—I’ve volunteered to support underprivileged children and assist in national crises, valuing compassion and making a positive impact.
 
 Memorylane
 ---
