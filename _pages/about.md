@@ -46,7 +46,7 @@ Latest News
   </div>
 
   <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
-            <span style="font-size: 14px; color: #888; text-align: left;">February 2023</span>
+            <span style="font-size: 16px; color: #888; text-align: left;">February 2023</span>
             <span>Successfully completed my Bachelor's in CSE from KUET.</span>
   </div>
 </div>
