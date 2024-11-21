@@ -18,30 +18,30 @@ redirect_from:
 Latest News
 ---
 
-<div style="width: 90%; margin: 20px; max-height: 200px; overflow-y: auto; display: flex; flex-direction: column;">
+<div style="margin: 20px; max-height: 300px; overflow-y: auto; display: flex; flex-direction: column;">
 
   <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
-            <span style="font-size: 14px; color: #888; text-align: left;">July 2024</span>
+            <span style="font-size: 16px; color: #888; text-align: left;">July 2024</span>
             <span>Hosted a seminar on <i>'Transformational Learning: Preparing Generation Z for Industry Challenges'</i> with 
             <a href="https://www.emporia.edu/school-business/about-us/school-business-directory-overview/directory/sajedur-rahman-bio/">Dr. Mohammed Sajedur Rahman</a> as the speaker</span>
   </div>
 
   <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
-            <span style="font-size: 14px; color: #888; text-align: left;">January 2024</span>
+            <span style="font-size: 16px; color: #888; text-align: left;">January 2024</span>
             <span>Premier University CSE Department successfully arranged PU-CSE IT Fest 2024.</span>
   </div>
   <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
-            <span style="font-size: 14px; color: #888; text-align: left;">November 2023</span>
+            <span style="font-size: 16px; color: #888; text-align: left;">November 2023</span>
             <span>I have accepted a lecturer position in the computer science department at Premier University, Chittagong.</span>
   </div>
 
   <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
-            <span style="font-size: 14px; color: #888; text-align: left;">July 2023</span>
+            <span style="font-size: 16px; color: #888; text-align: left;">July 2023</span>
             <span>I have accepted an adjunct lecturer position in the CSE department at International Islamic University Chittagong (IIUC).</span>
   </div>
 
   <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
-            <span style="font-size: 14px; color: #888; text-align: left;">March 2023</span>
+            <span style="font-size: 16px; color: #888; text-align: left;">March 2023</span>
             <span>Awarded Dean's Award in recognition of academic excellence.</span>
   </div>
 
