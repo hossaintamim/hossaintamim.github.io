@@ -15,8 +15,41 @@ redirect_from:
 
 </div>
 
+Latest News
+---
 
+<div style="width: 90%; margin: 20px; max-height: 200px; overflow-y: auto; display: flex; flex-direction: column;">
 
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 14px; color: #888; text-align: left;">July 2024</span>
+            <span>Hosted a seminar on <i>'Transformational Learning: Preparing Generation Z for Industry Challenges'</i> with 
+            <a href="https://www.emporia.edu/school-business/about-us/school-business-directory-overview/directory/sajedur-rahman-bio/">Dr. Mohammed Sajedur Rahman</a> as the speaker</span>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 14px; color: #888; text-align: left;">January 2024</span>
+            <span>Premier University CSE Department successfully arranged PU-CSE IT Fest 2024.</span>
+  </div>
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 14px; color: #888; text-align: left;">November 2023</span>
+            <span>I have accepted a lecturer position in the computer science department at Premier University, Chittagong.</span>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 14px; color: #888; text-align: left;">July 2023</span>
+            <span>I have accepted an adjunct lecturer position in the CSE department at International Islamic University Chittagong (IIUC).</span>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 14px; color: #888; text-align: left;">March 2023</span>
+            <span>Awarded Dean's Award in recognition of academic excellence.</span>
+  </div>
+
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 14px; color: #888; text-align: left;">February 2023</span>
+            <span>Successfully completed my Bachelor's in CSE from KUET.</span>
+  </div>
+</div>
 
 Education
 ---
@@ -39,32 +72,25 @@ Working Experience
 ---
 <div style="position: relative; max-width: 1200px; margin: 0 auto; padding: 20px;">
 
-        <!-- Timeline container -->
-        <div style="position: relative; margin: 20px 0;">
+  <!-- Timeline container -->
+  <div style="position: relative; margin: 20px 0;">
 
-            <!-- First Item -->
-            <div style="padding: 20px; position: relative; background-color: #252a34; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
-                <h3 style="font-size: 24px; margin: 0; color: #2980b9;">Lecturer</h3>
-                <p style="margin: 5px 0 10px 0; color: #95a5a6;">Premier University - Chittagong</p>
-                <span style="font-size: 14px; color: #95a5a6;">October 2023 - Present</span>
-                <!-- <ul style="margin: 10px 0; color: #7f8c8d;">
-                  <li> Conducted undergraduate courses in Image Processing and Computer Graphics, Neural Network and Fuzzy Logic, Software Engineering and Information System Design and Internet Programming in collaboration with other faculty members.</li>
-                  <li>Implemented and maintained Outcome-Based Education (OBE) curriculum-based learning to ensure effective knowledge transfer and skill development.</li>
-                  <li>Supervised thesis students on deep learning and computer vision research topics, guiding them through project development and research methodologies.</li>
-                  <li>Organized and facilitated extracurricular activities to enhance students’ learning experiences beyond the classroom.</li>
-                </ul> -->
-            </div>
+    <!-- First Item -->
+  <div style="padding: 20px; position: relative; background-color: #252a34; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
+    <h3 style="font-size: 24px; margin: 0; color: #2980b9;">Lecturer</h3>
+    <p style="margin: 5px 0 10px 0; color: #95a5a6;">Premier University - Chittagong</p>
+    <span style="font-size: 14px; color: #95a5a6;">October 2023 - Present</span>
+ 
+  </div>
 
             <!-- Second Item -->
-            <div style="padding: 20px; position: relative; background-color: #252a34; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
-                <h3 style="font-size: 24px; margin: 0; color: #2980b9;">Adjunct Faculty</h3>
-                <p style="margin: 5px 0 10px 0; color: #95a5a6;">International Islamic University Chittagong - Chittagong</p>
-                <span style="font-size: 14px; color: #95a5a6;">June 2023 - October 2023</span>
-                <!-- <ul style="margin: 10px 0; color: #7f8c8d;">
-                  <li>Taught various courses such as Competitive Programming, Database Management System, and Computer Graphics.</li>
-                </ul> -->
-            </div>
-        </div>
+  <div style="padding: 20px; position: relative; background-color: #252a34; border-radius: 6px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3); margin-bottom: 20px;">
+    <h3 style="font-size: 24px; margin: 0; color: #2980b9;">Adjunct Faculty</h3>
+    <p style="margin: 5px 0 10px 0; color: #95a5a6;">International Islamic University Chittagong - Chittagong</p>
+    <span style="font-size: 14px; color: #95a5a6;">June 2023 - October 2023</span>
+              
+  </div>
+</div>
 
 </div>
 
@@ -108,8 +134,8 @@ Memorylane
 
 <div style="text-align: center; padding: 10px 20px ; border-radius: 8px; background-color: #252a34; box-shadow: 0 2px 10px rgba(0,0,0,0.3); margin: 40px auto; max-width: 600px;">
         <h2 style="font-size: 28px; color: #2980b9;">Quote of the Day</h2>
-        <p id="quote" style="font-size: 20px; color: #7f8c8d; font-style: italic; margin: 20px 0;">"Do not go where the path may lead, go instead where there is no path and leave a trail.</p>
-        <p id="author" style="font-size: 18px; color: #2980b9; margin: 0;">Ralph Waldo Emerson</p>
+        <p id="quote" style="font-size: 20px; color: #7f8c8d; font-style: italic; margin: 20px 0;">Nobody who ever gave his best regretted it.</p>
+        <p id="author" style="font-size: 18px; color: #2980b9; margin: 0;">George Halas</p>
 </div>
 
 <script>
