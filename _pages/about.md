@@ -49,6 +49,12 @@ Latest News
             <span style="font-size: 16px; color: #888; text-align: left;">February 2023</span>
             <span>Successfully completed my Bachelor's in CSE from KUET.</span>
   </div>
+
+  <div style="display: grid; grid-template-columns: 1fr 3fr; margin-bottom: 10px; padding: 1px;">
+            <span style="font-size: 16px; color: #888; text-align: left;">January 2023</span>
+            <span>Won <strong>1st place</strong> in the Intra KUET Photography Exhibition.</span>
+  </div>
+
 </div>
 
 Education
