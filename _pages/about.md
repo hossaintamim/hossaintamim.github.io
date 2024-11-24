@@ -140,8 +140,8 @@ Memorylane
 
 <div style="text-align: center; padding: 10px 20px ; border-radius: 8px; background-color: #252a34; box-shadow: 0 2px 10px rgba(0,0,0,0.3); margin: 40px auto; max-width: 600px;">
         <h2 style="font-size: 28px; color: #2980b9;">Quote of the Day</h2>
-        <p id="quote" style="font-size: 20px; color: #7f8c8d; font-style: italic; margin: 20px 0;">Nobody who ever gave his best regretted it.</p>
-        <p id="author" style="font-size: 18px; color: #2980b9; margin: 0;">George Halas</p>
+        <p id="quote" style="font-size: 20px; color: #7f8c8d; font-style: italic; margin: 20px 0;">Your goal should be out of reach but not out of sight.</p>
+        <p id="author" style="font-size: 18px; color: #2980b9; margin: 0;">Anita DeFrantz</p>
 </div>
 
 <script>
