@@ -21,7 +21,7 @@ repository               : "hossaintamim/hossaintamim.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpghttps://doi.org/10.1038/d41586-023-03983-7"
+  avatar           : "profile2.jpg"
   name             : "MD Tamim Hossain"
   pronouns         : #"he/his"  
   bio              : "Lecturer, CSE, Premier University | Prospective Graduate Student"
